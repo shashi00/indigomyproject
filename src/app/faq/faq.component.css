@@ -1,0 +1,45 @@
+ body {
+    background-image: url("../../assets/FAQ.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+    height: 600px;
+   }
+
+#faqbar{
+    margin-right: 550px;
+    padding: 2.375rem 0.75rem;
+    
+}
+/* body[_ngcontent-c3][_ngcontent-c3] {
+   
+    height: 562px !important;
+    width: 100% !important;
+    color: white !important;
+} */
+#font {
+    font-size: 4.5rem;
+    padding-top: 119px;
+    padding-left: 594px;
+}
+h1{
+    color: white;
+}
+
+#bar1{
+    margin-top: 50px
+}
+#faqbar[_ngcontent-c3] {
+    margin-right: 554px;
+    margin-top: 50px;
+    /* margin-left: 479px; */
+    padding: 2.375rem 0.75rem;
+}
+.input-group > .input-group-prepend > .btn, .input-group > .input-group-prepend > .input-group-text, .input-group > .input-group-append:not(:last-child) > .btn, .input-group > .input-group-append:not(:last-child) > .input-group-text, .input-group > .input-group-append:last-child > .btn:not(:last-child):not(.dropdown-toggle), .input-group > .input-group-append:last-child > .input-group-text:not(:last-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 0px;
+    margin-left: 616px;
+    color: black;
+    background-color: white;
+    border: 0px;
+} 

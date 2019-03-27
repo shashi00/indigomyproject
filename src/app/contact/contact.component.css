@@ -1,0 +1,77 @@
+.wrapInnerPolicies[_ngcontent-c4] .wrapQuarter[_ngcontent-c4] {
+    padding: 8px;
+    color: #fff;
+    border-radius: 4px;
+    background-color: #333;
+}
+
+a {
+    padding: 16px;
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+    .wrapInnerPolicies .wrapQuarter {
+        padding: 13px;
+        color: #fff;
+        border-radius: 4px;
+        background-color: #333;
+    }
+    
+    h3, .h3 {
+        font-size: 2.75rem;
+    }
+    h3[_ngcontent-c4], .h3[_ngcontent-c4] {
+        font-size: 1.89rem;
+    }
+    #ask[_ngcontent-c4] {
+        margin-left: 700px;
+        margin-top: -238px;
+        text-align:  right;
+    }
+    span
+    {
+        border-radius: 20px;
+       
+    }
+    span[_ngcontent-c4] {
+        border-radius: 20px;
+        padding: 13px;
+        font-size: 21px;
+        line-height:2;
+       
+    }
+    h3[_ngcontent-c3], .h3[_ngcontent-c3] {
+        font-size: 2.75rem;
+        margin-top: 125px;
+    }
+    .card {
+        margin-top: -25px;
+        padding: 40px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border: 1px solid rgba(0, 0, 0, 0.125);
+        border-radius: 0.25rem;
+    }
+
+    a[_ngcontent-c2] {
+        padding: 16px;
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
+        margin-top: 16px;
+    }
+
+    .border {
+        border: solid 2px;
+        padding: 15px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }

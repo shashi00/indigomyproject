@@ -1,0 +1,27 @@
+.w-100[_ngcontent-c2] {
+    width: 133%!important;
+    margin-left: -220px;
+    margin-top: 0px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+   
+    padding: 35px;
+}
+
+.carousel-control-next {
+    right: -279px;
+}
+.carousel-control-prev {
+    left: -230px;
+}
+img[_ngcontent-c2] {
+    width: 441px;
+    height: 379px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 566px;
+    margin-top: 214px;
+    margin-left: -1305px;
+}

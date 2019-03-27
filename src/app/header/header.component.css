@@ -1,0 +1,133 @@
+nav {
+    background: transparent !important;
+    z-index: 11111 !important;
+    position: absolute !important;
+}
+
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    font-size: 28px;
+    color: rgb(216, 216, 216)
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: rgb(216, 216, 216);
+  }
+.form-control{
+    background-color: transparent;
+    border: 0px;
+    color: beige;
+}
+#btn1 {
+    color: rgb(216, 216, 216);
+    background-color: transparent;
+    border-color: transparent;
+}
+.input-group > .form-control:not(:first-child), .input-group > .custom-select:not(:first-child) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    font-size: 27px;
+}
+#map{
+    
+    top: 144%;
+    left: -725px;
+    
+}
+
+h1, .h1 {
+    font-size: 4.5rem;
+}
+.bg {
+    background-color: #0a79f856;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background-color: rgba(15, 86, 218, 0.267);
+}
+.logo{
+    
+        vertical-align: middle;
+        border-style: none;
+        width: 125px;
+        margin-left: 10px;
+    }
+   
+    .navbar-expand-lg[_ngcontent-c1] .navbar-nav[_ngcontent-c1] .nav-link[_ngcontent-c1] {
+        padding-right: 0.5rem;
+        padding-left: 4.5rem;
+        font-size: 27px;
+        margin-left: -24px;
+    }
+
+    a:not([href]):not([tabindex]) {
+        color: white;
+        text-decoration: none;
+    }
+
+    .dropdown-menu {
+        
+       
+        width: 800px;
+    }
+
+    .table-bordered th, .table-bordered td {
+        border: 0px solid #dee2e6;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    .fa {
+        font-weight: 900;
+        border: 1px solid;
+        padding: 4px;
+        border-radius: 19%;
+    }
+    .table{
+        border: 0px solid #dee2e6;
+    }
+    .offset-4 {
+        margin-left: 18%;
+        margin-right: 18%;
+    }
+    input.ng-touched.ng-invalid{
+        border: 1px solid red;
+    }
+    
+    input.ng-touched.ng-valid{
+        border: 1px solid greenyellow;
+    }
+
+    .modal-title {
+        margin-bottom: 0;
+        line-height: 62px;
+        margin-left: 39px;
+    }
+    #ui[_ngcontent-c1]{
+        border: 1px solid black !important;
+    }
+    #pi[_ngcontent-c1]{
+        border: 1px solid black !important;
+    }
+th{
+    font-size: 20px
+}
+td{
+    font-size: 20px
+}
+    /* .form-control[_ngcontent-c1] {
+        background-color: transparent;
+        border: 2px solid;
+        color: beige;
+    } */
